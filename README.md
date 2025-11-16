@@ -1,4 +1,1 @@
-# Moshikan
-    
-    else:
-        print("Invalid Input")
+# Qoldau

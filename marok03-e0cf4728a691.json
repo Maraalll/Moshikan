@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "marok03",
-  "private_key_id": "e0cf4728a691ec880961a4def8073d8ec69e7406",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaa9ttPfLTQ8yx\n9k+rFhfMlmQObTmcHbkLCsEciFABN87KlwkgladSxOvkrhkyZWXaRAGQH2qqvgix\nv/XAYF8digEUr/MJ4+Tjsurne5RSE9XLlyPrayuV0AHWb6rqNHXq+HGPvBxXiHAb\nzmMvOCoetI9taozUkRH8j2+91L4k6nYkTOvSiL+6i85v/owmuNJ8QNz8JAhb/zhx\n+jUK4aMrPuonUw9zw39bb24+gmZjh0d9Cls0CyirsRcErhUBu89UoTnPhe9sscCb\nbsg3Vtg5TCPxwQODrpQO1deEgeXXyjtzen0NdQ1n6MpkBcbgStF9kMN4kb8kGDsf\nDsymnuhnAgMBAAECggEABt9J4iAG2drSP+8uBoYFbax1rXaGT4En508JUGqBiehF\nm14xLVNIFnSXr3RC2rESCVIGcpBqfMDJ6T3O76SYmYdUDWCT1wXSl89zUKE0w3hY\nS7WPrcKLdoU66ZJN4FySMThr6kfS5HYogNd3i27K9Hhd4uVtVOrTlAy3SVO+P88J\n0ZPrlV2+0bO6k5i3tlyXGcJB/+uFgsQfWaZR8D0NtfKhdBJ58LaQ1Wx1JsQyPOaT\ncuzNA3nDaTbInfuqskag1M4XGAO0mGcwBYu+mbMTYLDw8qI9haqRIE9+yCnZq2tY\n3wowwYw9PlApb/+JjGw8UbrEZV8Z+zZrXe8n7YlVsQKBgQDzkoAHuRT+nTdnCVAJ\noWwT5A4p3B9kKoTbLLd1vxMyOYbAOivCYywUv1plUkQBCrFyIh8flqH9t+1Pc+PQ\nLLhi1kwxUnLZqbg9hYWBdv8b0SBvshXgW1btYrD50449bDEhDFpaARfvWVFFzhh/\nwHwD9GLvovJdZXKdGfAwfOeYxQKBgQDlkNbtYA2t0MjSwGgT5Fyz38nyK/8ARyA3\nTvxHyw//15rwO6A5DYyMIcHINlGjiOeq9RVzsmuKbWisZ8jxaNZX9Gjo8O7B0mV4\nkNmdelyResD6kjSteUcqKfTO1d7SOc+xkjLI8mqtAr9G/JpmqeQQlPZwvpfDyQah\ns1zzesEXOwKBgQCeC/iRilIKKL+TVyKdLSYw/fEGznN8Dm7ovOpKN/Lfyx4Zy2Ur\nnCg1SjkAt9Gyj1q2wVdKqvZv6JHO1VcEdJAsaftEocguXodTPDl12V4NkbQnZfn1\n+667GCfX46NPTc3PMPHLpxv9zgoDbojNFHwkIMa10hjL65DkSbll7RZmNQKBgQCz\n5+6H2N7feN/pSiBGdpCv5pG81/3fmd4FekD7gofnWHB0FEZcb+HVcB8NaIRSRNhJ\ngghtw0XEFjoR4sP3bNGN3FzbMPXrr5cWBW6Fm38wA6N4u1vNF15ODNNtxO36kpPR\n9WEXWeN/8sc0OoJGMp4o4JTBhpwpM0GfN5GAvpLUQQKBgDxXCrQdA5YdxToLyBHA\nXddNuGRtyQRbxEXK/IRNHoEeFhI11qDN8inTFqEVBk1LpTamX+xv6sZKgI1bporO\nlarMcpn1gv4j4xVSYkEIEvvC/Mt4mQrefGVdtgVhYt1Xj8dOndikEw+Nb7FvpWJa\ncBv6dWrhQkle+uQ5cfJRd3DS\n-----END PRIVATE KEY-----\n",
-  "client_email": "qoldau-bot-service@marok03.iam.gserviceaccount.com",
-  "client_id": "110721449471312609479",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qoldau-bot-service%40marok03.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
